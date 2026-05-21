@@ -151,7 +151,7 @@ U = fuzzy_gain × (Kp·e + Ki·∫e dt + Kd·de/dt)
 
 1. **Clone repositori ini**
    ```bash
-   git clone https://github.com/username/it2-fuzzypid-thermal-plts.git
+   git clone https://github.com/S00eb/fuzzytype2-pid-thermal.git
    ```
 
 2. **Kompilasi firmware** menggunakan Keil µVision
