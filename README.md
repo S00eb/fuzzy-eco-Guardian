@@ -118,11 +118,11 @@ Unlike **Type-1 Fuzzy Logic**, which uses single membership curves, **Type-2 Fuz
 
 ### Block Diagram
 
-![Block Diagram](diagram_blok.png)
+![Block Diagram](Images_for_README/diagramblok.png)
 
 ### Algorithm Flowchart
 
-![Algorithm Flowchart](flowchart_algoritma.png)
+![Algorithm Flowchart](Images_for_README/flowchart_algoritma.png)
 
 ---
 
